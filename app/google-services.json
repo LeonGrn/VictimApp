@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569685543488",
+    "project_id": "victimapp-de914",
+    "storage_bucket": "victimapp-de914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569685543488:android:e620ccfa7c9d0e3ebeada5",
+        "android_client_info": {
+          "package_name": "com.example.victimapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569685543488-s152j65n6p61514rjri9kc5i8lqj0nmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHuwVZsItg5-KyPnWps5wvnPKgZcYC10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569685543488-s152j65n6p61514rjri9kc5i8lqj0nmn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
